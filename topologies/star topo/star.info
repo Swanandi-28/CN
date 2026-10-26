@@ -1,0 +1,6 @@
+Implementation of Star Topology
+Aim: To implement Star Topology and understand how computers connect through a central hub or switch.
+
+Result: Thus, Star Topology was successfully implemented by connecting six PCs to a central switch. 
+IP addresses, subnet masks, and default gateways were configured, and network connectivity was 
+verified using the ping command.

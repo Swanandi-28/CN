@@ -1,0 +1,5 @@
+b) Implementation of Bus Topology
+Aim: To implement Bus Topology and understand how computers communicate through a single backbone cable.
+Result: Thus, Bus Topology was successfully implemented by connecting six PCs through a common
+backbone cable. IP addresses and other network settings were configured, and connectivity between 
+the PCs was tested using the ping command.

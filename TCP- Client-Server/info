@@ -1,0 +1,7 @@
+Aim: To implement a TCP client–server application using socket programming in JavaScript to 
+     establish a connection and exchange data between the client and server.
+
+
+Result: Thus, a TCP client–server application was successfully implemented using JavaScript. 
+        The client established a connection with the server, exchanged messages, and received a 
+        response through TCP socket communication.

@@ -1,0 +1,6 @@
+Implementation of Ring Topology
+Aim: To implement Ring Topology and understand how computers are connected in a circular arrangement.
+
+Result: Thus, Ring Topology was successfully implemented by connecting six PCs in a 
+circular arrangement.IP addresses, subnet masks, and default gateways were configured, 
+and network connectivity was verified using the ping command.

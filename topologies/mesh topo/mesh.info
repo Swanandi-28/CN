@@ -1,0 +1,6 @@
+Implementation of Mesh Topology
+Aim: To implement Mesh Topology and understand the use of multiple connections between network devices.
+
+Result: Thus, Mesh Topology was successfully implemented by interconnecting six PCs through
+ multiple links. IP addresses and network settings were configured, and connectivity between 
+ the PCs was verified using the ping command.

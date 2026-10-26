@@ -1,0 +1,6 @@
+Implementation of Bus-Ring Topology
+Aim: To implement Bus-Ring Topology and understand the combination of bus and ring network arrangements.
+
+Result: Thus, Bus-Ring Topology was successfully implemented by combining bus and ring network 
+arrangements. Network settings were configured, and connectivity between the PCs was verified 
+using the ping command.

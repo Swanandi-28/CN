@@ -1,0 +1,7 @@
+Aim: To implement a UDP client–server application using socket programming in JavaScript to
+     exchange data between the client and server using the UDP protocol.
+
+
+Result: Thus, a UDP client–server application was successfully implemented using JavaScript. 
+        The client sent a message to the server, and the server received and responded to the 
+        message using UDP communication.
